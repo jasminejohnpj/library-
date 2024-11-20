@@ -1,0 +1,32 @@
+{
+  "Addbook": {
+    "description": "Auto imported from components/addbook.vue"
+  },
+  "Adddp": {
+    "description": "Auto imported from components/adddp.vue"
+  },
+  "Addmember": {
+    "description": "Auto imported from components/addmember.vue"
+  },
+  "Addorder": {
+    "description": "Auto imported from components/addorder.vue"
+  },
+  "Deliveryreq": {
+    "description": "Auto imported from components/deliveryreq.vue"
+  },
+  "Dprequest": {
+    "description": "Auto imported from components/dprequest.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/sidebar.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}

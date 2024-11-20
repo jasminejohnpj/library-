@@ -1,0 +1,142 @@
+[
+  {
+    "name": "bookdwld",
+    "path": "/bookdwld",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\bookdwld.vue",
+    "chunkName": "pages/bookdwld",
+    "_name": "_2b72555a"
+  },
+  {
+    "name": "bookrequest",
+    "path": "/bookrequest",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\bookrequest.vue",
+    "chunkName": "pages/bookrequest",
+    "_name": "_08ef4f50"
+  },
+  {
+    "name": "bookreturn",
+    "path": "/bookreturn",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\bookreturn.vue",
+    "chunkName": "pages/bookreturn",
+    "_name": "_3d32f4ff"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_cfb9d044"
+  },
+  {
+    "name": "Deliverypartner",
+    "path": "/Deliverypartner",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\Deliverypartner.vue",
+    "chunkName": "pages/Deliverypartner",
+    "_name": "_05046dfe"
+  },
+  {
+    "name": "deliverypartnerlist",
+    "path": "/deliverypartnerlist",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\deliverypartnerlist.vue",
+    "chunkName": "pages/deliverypartnerlist",
+    "_name": "_a4e6b688"
+  },
+  {
+    "name": "deliveryrequest",
+    "path": "/deliveryrequest",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\deliveryrequest.vue",
+    "chunkName": "pages/deliveryrequest",
+    "_name": "_7676ff36"
+  },
+  {
+    "name": "Managebook",
+    "path": "/Managebook",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\Managebook.vue",
+    "chunkName": "pages/Managebook",
+    "_name": "_7ae991d8"
+  },
+  {
+    "name": "memberdwld",
+    "path": "/memberdwld",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\memberdwld.vue",
+    "chunkName": "pages/memberdwld",
+    "_name": "_55dd588b"
+  },
+  {
+    "name": "membership",
+    "path": "/membership",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\membership.vue",
+    "chunkName": "pages/membership",
+    "_name": "_4e1c10fc"
+  },
+  {
+    "name": "membershipreq",
+    "path": "/membershipreq",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\membershipreq.vue",
+    "chunkName": "pages/membershipreq",
+    "_name": "_b81b795c"
+  },
+  {
+    "name": "memberslist",
+    "path": "/memberslist",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\memberslist.vue",
+    "chunkName": "pages/memberslist",
+    "_name": "_1dc30481"
+  },
+  {
+    "name": "Mobilemanagement",
+    "path": "/Mobilemanagement",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\Mobilemanagement.vue",
+    "chunkName": "pages/Mobilemanagement",
+    "_name": "_4753bcaa"
+  },
+  {
+    "name": "newrelease",
+    "path": "/newrelease",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\newrelease.vue",
+    "chunkName": "pages/newrelease",
+    "_name": "_4174430d"
+  },
+  {
+    "name": "orderplaced",
+    "path": "/orderplaced",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\orderplaced.vue",
+    "chunkName": "pages/orderplaced",
+    "_name": "_6aeb5b56"
+  },
+  {
+    "name": "report",
+    "path": "/report",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\report.vue",
+    "chunkName": "pages/report",
+    "_name": "_55e8134c"
+  },
+  {
+    "name": "requstdwld",
+    "path": "/requstdwld",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\requstdwld.vue",
+    "chunkName": "pages/requstdwld",
+    "_name": "_6f7f3029"
+  },
+  {
+    "name": "trends",
+    "path": "/trends",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\trends.vue",
+    "chunkName": "pages/trends",
+    "_name": "_fcd93ac8"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "_name": "_31cf961e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\anojm\\\\Desktop\\\\my doc\\\\library (1)\\\\library\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8b9f9fc8"
+  }
+]
